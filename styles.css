@@ -1,0 +1,11 @@
+/* The learning objective for this practice exercise is to use display:flex on two elements,
+ and then add additional CSS properties to achieve a desired layout. */
+
+ .pageHeader {
+    display: flex;
+  }
+
+  .list {
+    display: flex;
+    flex-direction: row;
+  }
